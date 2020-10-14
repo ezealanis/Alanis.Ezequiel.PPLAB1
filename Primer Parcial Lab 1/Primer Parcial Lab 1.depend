@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1602684127 source:c:\users\ezequ\desktop\primer parcial lab 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"fecha.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+	"moto.h"
+	"trabajo.h"
+
+1602683036 source:c:\users\ezequ\desktop\primer parcial lab 1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"color.h"
+
+1602683036 c:\users\ezequ\desktop\primer parcial lab 1\color.h
+
+1602683178 source:c:\users\ezequ\desktop\primer parcial lab 1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"tipo.h"
+
+1602683178 c:\users\ezequ\desktop\primer parcial lab 1\tipo.h
+
+1602683340 source:c:\users\ezequ\desktop\primer parcial lab 1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"servicio.h"
+
+1602683340 c:\users\ezequ\desktop\primer parcial lab 1\servicio.h
+
+1602683598 source:c:\users\ezequ\desktop\primer parcial lab 1\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"moto.h"
+
+1602683599 c:\users\ezequ\desktop\primer parcial lab 1\moto.h
+	"tipo.h"
+	"color.h"
+
+1602684114 source:c:\users\ezequ\desktop\primer parcial lab 1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1602684114 c:\users\ezequ\desktop\primer parcial lab 1\fecha.h
+
+1602684024 source:c:\users\ezequ\desktop\primer parcial lab 1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"fecha.h"
+	"trabajo.h"
+
+1602683987 c:\users\ezequ\desktop\primer parcial lab 1\trabajo.h
+	"moto.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+
