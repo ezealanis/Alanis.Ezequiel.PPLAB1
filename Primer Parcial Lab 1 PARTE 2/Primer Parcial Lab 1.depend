@@ -1,0 +1,333 @@
+# depslib dependency file v1.0
+1602684127 source:c:\users\ezequ\desktop\primer parcial lab 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"fecha.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+	"moto.h"
+	"trabajo.h"
+
+1602683036 source:c:\users\ezequ\desktop\primer parcial lab 1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"color.h"
+
+1602683036 c:\users\ezequ\desktop\primer parcial lab 1\color.h
+
+1602683178 source:c:\users\ezequ\desktop\primer parcial lab 1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"tipo.h"
+
+1602683178 c:\users\ezequ\desktop\primer parcial lab 1\tipo.h
+
+1602683340 source:c:\users\ezequ\desktop\primer parcial lab 1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"servicio.h"
+
+1602683340 c:\users\ezequ\desktop\primer parcial lab 1\servicio.h
+
+1602683598 source:c:\users\ezequ\desktop\primer parcial lab 1\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"moto.h"
+
+1602683599 c:\users\ezequ\desktop\primer parcial lab 1\moto.h
+	"tipo.h"
+	"color.h"
+
+1602684114 source:c:\users\ezequ\desktop\primer parcial lab 1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1602684114 c:\users\ezequ\desktop\primer parcial lab 1\fecha.h
+
+1602684024 source:c:\users\ezequ\desktop\primer parcial lab 1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"fecha.h"
+	"trabajo.h"
+
+1602683987 c:\users\ezequ\desktop\primer parcial lab 1\trabajo.h
+	"moto.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+
+1603165883 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1-main\primer parcial lab 1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"color.h"
+
+1602684406 c:\users\ezequ\desktop\alanis.ezequiel.pplab1-main\primer parcial lab 1\color.h
+
+1602684406 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1-main\primer parcial lab 1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1602684406 c:\users\ezequ\desktop\alanis.ezequiel.pplab1-main\primer parcial lab 1\fecha.h
+
+1603166402 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1-main\primer parcial lab 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"fecha.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+	"moto.h"
+	"trabajo.h"
+
+1602684406 c:\users\ezequ\desktop\alanis.ezequiel.pplab1-main\primer parcial lab 1\tipo.h
+
+1602684406 c:\users\ezequ\desktop\alanis.ezequiel.pplab1-main\primer parcial lab 1\servicio.h
+
+1603163253 c:\users\ezequ\desktop\alanis.ezequiel.pplab1-main\primer parcial lab 1\moto.h
+	"tipo.h"
+	"color.h"
+
+1603163981 c:\users\ezequ\desktop\alanis.ezequiel.pplab1-main\primer parcial lab 1\trabajo.h
+	"moto.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+
+1603166280 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1-main\primer parcial lab 1\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"moto.h"
+	"dataStoreMoto.h"
+
+1603165883 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1-main\primer parcial lab 1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"servicio.h"
+
+1603165836 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1-main\primer parcial lab 1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"tipo.h"
+
+1603166316 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1-main\primer parcial lab 1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"fecha.h"
+	"trabajo.h"
+	"dataStoreTrabajo.h"
+
+1603165495 c:\users\ezequ\desktop\alanis.ezequiel.pplab1-main\primer parcial lab 1\datastoremoto.h
+
+1603166470 c:\users\ezequ\desktop\alanis.ezequiel.pplab1-main\primer parcial lab 1\datastoretrabajo.h
+
+1603165883 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"color.h"
+
+1602684406 c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1\color.h
+
+1603282255 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1602684406 c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1\fecha.h
+
+1603287354 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"fecha.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+	"moto.h"
+	"trabajo.h"
+	"informes.h"
+
+1602684406 c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1\tipo.h
+
+1602684406 c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1\servicio.h
+
+1603163253 c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1\moto.h
+	"tipo.h"
+	"color.h"
+
+1603287376 c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1\trabajo.h
+	"fecha.h"
+	"moto.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+
+1603166280 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"moto.h"
+	"dataStoreMoto.h"
+
+1603284124 c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1\datastoremoto.h
+
+1603165883 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"servicio.h"
+
+1603165836 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"tipo.h"
+
+1603166316 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"fecha.h"
+	"trabajo.h"
+	"dataStoreTrabajo.h"
+
+1603282855 c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1\datastoretrabajo.h
+
+1603289525 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"informes.h"
+
+1603289486 c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1\informes.h
+	"moto.h"
+	"trabajo.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+
+1603165883 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1 parte 2\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"color.h"
+
+1602684406 c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1 parte 2\color.h
+
+1603282255 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1 parte 2\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1602684406 c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1 parte 2\fecha.h
+
+1603289737 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1 parte 2\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"informes.h"
+
+1603289486 c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1 parte 2\informes.h
+	"moto.h"
+	"trabajo.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+
+1603163253 c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1 parte 2\moto.h
+	"tipo.h"
+	"color.h"
+
+1602684406 c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1 parte 2\tipo.h
+
+1603287376 c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1 parte 2\trabajo.h
+	"fecha.h"
+	"moto.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+
+1602684406 c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1 parte 2\servicio.h
+
+1603287354 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1 parte 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"fecha.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+	"moto.h"
+	"trabajo.h"
+	"informes.h"
+
+1603166280 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1 parte 2\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"moto.h"
+	"dataStoreMoto.h"
+
+1603284124 c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1 parte 2\datastoremoto.h
+
+1603165883 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1 parte 2\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"servicio.h"
+
+1603165836 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1 parte 2\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"tipo.h"
+
+1603166316 source:c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1 parte 2\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"fecha.h"
+	"trabajo.h"
+	"dataStoreTrabajo.h"
+
+1603282855 c:\users\ezequ\desktop\alanis.ezequiel.pplab1\primer parcial lab 1 parte 2\datastoretrabajo.h
+
